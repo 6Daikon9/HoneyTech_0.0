@@ -1,0 +1,11 @@
+{
+	"name": "HoneyTech",
+	"version": "0.0.1",
+	"title": "Honey Tech",
+	"author": "6Daikon9",
+	"factorio_version": "2.0",
+	"contact": "Discord: daikon2780",
+	"homepage": "https://mods.factorio.com",
+	"description": "Adds bees and honeycomb-based resource production to Factorio.",
+	"dependencies": ["base >= 2.0"]
+}
